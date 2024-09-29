@@ -1,1 +1,1 @@
-#Hi this is some randome code I use to make a soundboard.
+#Hi this is some randome code I use to make a soundboard. If you want to try it you will need LuaMacro, witch you can download at https://www.hidmacros.eu/ (I think the website is blocked in Germany but you can just use a vpn or onion browser to get around that).
